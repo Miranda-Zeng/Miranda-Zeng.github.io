@@ -1,9 +1,10 @@
 ---
 title: "Assignment #1"
-date: 
 categories: 
 	- blog
 tags:
   - Jekyll
   - update
 ---
+
+###This will be the page for assignment one
