@@ -4,7 +4,7 @@ permalink: /dln/
 author_profile: false
 ---
 
-## Course Reflection
+## Course Reflection :smiley:
 
 As a 20-year-old university student, I embarked on a transformative journey by enrolling in an introductory course in digital humanities. What made this experience particularly enriching was the diverse group of classmates who joined me. Our majors spanned a wide spectrum of disciplines, including Computer Science, Interactive Media, Film and New Media, Environmental Studies, Business and Marketing, Literature, and Creative Writing. Together, we have explored digital literacy, each bringing a unique set of strategies and skills into the classroom.
 
@@ -25,3 +25,5 @@ Digital humanities has broadened our horizons, offering fresh perspectives on ou
 Looking ahead, we are excited to continue our exploration of new ways of thinking and working. We aim to cultivate a holistic approach to education that recognizes the value of interdisciplinary thinking in a digitally driven world. We envision a future where collaboration between artists, scientists, scholars, and creators becomes the norm, fostering innovation and pushing the boundaries of our fields.
 
 In conclusion, our journey through digital humanities has been transformative. It has expanded our horizons, bridged the gap between technology and the humanities, and equipped us with a multifaceted understanding of digital literacy. As we continue to navigate the digital landscape, we are poised to embrace new ways of thinking and working that promote interdisciplinary collaboration and responsible digital citizenship. In the age of AI, we are ready to embrace the challenges and opportunities that lie ahead.
+
+ <mark>This page is done</mark>
