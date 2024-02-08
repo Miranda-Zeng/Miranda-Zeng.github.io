@@ -1,7 +1,7 @@
 ---
 title: "Post: Assignment 1"
 categories:
-  - Blog
+  - blog
 tags:
   - assignment
   - Post Formats
