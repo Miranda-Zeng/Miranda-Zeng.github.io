@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 1"
+title: "Post: Assignment #1"
 categories:
   - blog
 tags:
@@ -59,11 +59,14 @@ Very interestingly, most of the Chinese objects(1285pieces) were accessed in 194
 
 
 ![American](/assets/assignment1/american.jpg)
+
 The word cloud for American artifacts in the Harvard Art Museum shows that certain geographical locations like "United States," "New York," "York," and "States" are prominent, indicating a focus on American regions or cities. The appearance of "Massachusetts" and "Ohio" suggests that specific states within the U.S. are also significant in the collection. The inclusion of "Lyonel Feinger" likely refers to an artist or individual associated with the artworks, potentially indicating a notable figure or a significant contributor to the American art scene. Overall, the word cloud highlights geographical locations, specific states, and possibly influential artists within the context of American artifacts in the museum's collection.
 
 ![Japanese](/assets/assignment1/japanese.jpg)
+
 The word cloud for Japanese objects indicates a focus on literary themes and cultural motifs. The prominence of words like "Series" and "Tale" suggests a significant presence of narrative or series-based artworks. "Genji," "Fuji," and "Mount Fuji" are prominent, possibly indicating a focus on iconic Japanese landmarks or literary references like "The Tale of Genji." The repetition of "Fuji" and "Genji" underscores their importance. Additionally, terms like "Woman," "Poems," "Ichikawa," "Actor," "Courtesan," and "volume" suggest a diversity of subjects, including representations of women, theatrical themes, and literary volumes. Overall, the word cloud reflects a rich tapestry of Japanese cultural and literary influences in the museum's collection.
 
 ![Chinese](/assets/assignment1/chinese.jpg)
+
 The word cloud for Chinese artifacts suggests a focus on form, decoration, and numerical symbolism. "Form" and "Decoration" being the largest words indicate an emphasis on the visual and ornamental aspects of the artifacts. The prominent numbers ("One," "Three," "Two," "Four") suggest numerical symbolism or possibly categorization within the collection. Additionally, the presence of terms like "birds," "bamboo," "flower," "vase," and "mountain" reflects the significance of nature and traditional Chinese motifs in the artworks. The appearance of "calligraphy," "shuhua," "Shizhuzhai," and "Album leaf" indicates a strong presence of Chinese calligraphic and artistic traditions. Furthermore, the mention of specific items like "Circular Dish," "Jade Disk," and "Circular bowl" may highlight the Chinese aesthetic preference for circular shapes and forms. Overall, the word cloud reveals a diverse array of cultural and artistic themes within the Chinese artifact collection.
 
