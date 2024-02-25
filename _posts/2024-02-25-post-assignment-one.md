@@ -22,7 +22,7 @@ Preservation Efforts: Some countries may have had more robust efforts to preserv
 
 Accessibility and Availability: The limited representation of certain countries like Lebanon, Baule, Central African, Turkistan, and Yemeni could be attributed to factors such as accessibility and availability. Artworks from these regions may be less accessible due to political instability, limited resources for preservation, or challenges in acquiring them through legal channels.
 
-
+### Some of the Most Viewed Object
 
 In terms of the most and least viewed objects, I searched Chinese and Czech in the noebook Harvard_API_All_objects. 
 
@@ -41,7 +41,7 @@ The time period in which the photograph was taken, **1931**, was a significant e
 The Barrandov Terrace Restaurant was a prominent social and cultural hub in Prague during the early 20th century. It was frequented by artists, intellectuals, and members of high society, reflecting the vibrant cultural scene of the time. The photograph may hold cultural significance for Czech audiences nostalgic for the heyday of Prague's café culture and social life.
 
 
-### choice of three cultures
+### Choice of Three Cultures
 
 I chose **American, Japnese and Chinese culture**, as they are among the most prominent in terms of quantity in the museum's collection.
 
@@ -55,7 +55,7 @@ The fluctuating number of Japanese artifacts accessed in recent years, ranging f
 
 ![2006](/assets/assignment1/2006.jpg)
 
-Very interestingly, most of the Chinese objects(1285pieces) were accessed in 1943. The year 1943 falls within a tumultuous period in Chinese history marked by the Second Sino-Japanese War (1937-1945) and World War II (1939-1945). China was facing significant political upheaval, territorial conflict, and social disruption due to Japanese invasion and occupation in various regions. Despite these challenges, cultural preservation and national identity remained important priorities for many Chinese scholars, artists, and cultural institutions.
+Very interestingly, most of the Chinese objects(1278 pieces) were accessed in 1943. The year 1943 falls within a tumultuous period in Chinese history marked by the Second Sino-Japanese War (1937-1945) and World War II (1939-1945). China was facing significant political upheaval, territorial conflict, and social disruption due to Japanese invasion and occupation in various regions. Despite these challenges, cultural preservation and national identity remained important priorities for many Chinese scholars, artists, and cultural institutions.
 
 
 ![American](/assets/assignment1/american.jpg)
