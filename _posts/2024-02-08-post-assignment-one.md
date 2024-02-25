@@ -10,7 +10,7 @@ tags:
 ## Assignment #1: Cultural Heritage by the Numbers
 
 
-The the data from the file 'All_culture_information.csv' reveals significant disparities in the distribution of objects across different cultural categories. Out of the 254 rows, it is evident that American, German, French, Italian, British, and Japanese objects dominate the collection, with each category containing more than <span style="color:brown">ten thousand</span>objects. Byzantine, Greek, Chinese, Roman, and Dutch artifacts are also well-represented, with each category having more than five thousand objects. Conversely, certain cultures, such as Lebanese, Baule, Central African, Turkistan, and Yemeni, are notably underrepresented, with only one piece each in the collection. 
+The the data from the file 'All_culture_information.csv' reveals significant disparities in the distribution of objects across different cultural categories. Out of the 254 rows, it is evident that American, German, French, Italian, British, and Japanese objects dominate the collection, with each category containing more than <span style="color:brown">ten thousand</span> objects. Byzantine, Greek, Chinese, Roman, and Dutch artifacts are also well-represented, with each category having more than five thousand objects. Conversely, certain cultures, such as Lebanese, Baule, Central African, Turkistan, and Yemeni, are notably underrepresented, with only one piece each in the collection. 
 
 Historical Significance: Countries like America, Germany, France, Italy, Britain, Japan, Byzantine, Greece, China, Rome, and the Netherlands have rich cultural and artistic histories that have produced a significant number of artworks over the centuries. These countries have been centers of artistic production and patronage, leading to a large number of artworks being created and preserved.
 
@@ -39,6 +39,12 @@ It's a photograph taken by Jan Lauschmann in 1931.
 The time period in which the photograph was taken, **1931**, was a significant era in Czech history. This was during the interwar period, characterized by social, political, and cultural changes in Czechoslovakia. The image of the Barrandov Terrace Restaurant captures a snapshot of daily life and leisure activities during this dynamic period, making it historically intriguing to viewers interested in Czech history.
 
 The Barrandov Terrace Restaurant was a prominent social and cultural hub in Prague during the early 20th century. It was frequented by artists, intellectuals, and members of high society, reflecting the vibrant cultural scene of the time. The photograph may hold cultural significance for Czech audiences nostalgic for the heyday of Prague's café culture and social life.
+
+
+### choice of three cultures
+
+I chose American, Japnese and Chinese culture, as they are among the most prominent in terms of quantity in the museum's collection.
+
 
 
 
