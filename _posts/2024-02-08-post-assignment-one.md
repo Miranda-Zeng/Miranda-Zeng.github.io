@@ -45,7 +45,7 @@ The Barrandov Terrace Restaurant was a prominent social and cultural hub in Prag
 
 I chose American, Japnese and Chinese culture, as they are among the most prominent in terms of quantity in the museum's collection.
 
-![count](count.jpg)
+![count](/assets/assignment1/count.jpg)
 
 
 
