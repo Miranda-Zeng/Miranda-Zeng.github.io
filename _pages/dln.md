@@ -28,10 +28,14 @@ The concept of digital religion has become popular these years. I’m personally
 Another inspiring class that caught my interests revolves around spatial projects. I think it’s highly relevant to my major. In the Article *Map, Mapping and the Visual Arts*, the author Lou Cabeen mentioned some strategies that artists can utilize. 
 
 
->Incorporating Maps: Artists integrated actual maps or mapping elements into their artworks, blurring the lines between representation and abstraction. By using maps as visual components, artists could evoke a sense of real-world geography while exploring abstract forms and concepts .
+>Incorporating Maps: Artists integrated actual maps or mapping elements into their artworks, blurring the lines between representation and abstraction. By using maps as visual components, artists could evoke a sense of real-world geography while exploring abstract forms and concepts.
+
 >Exploring Spatial Relationships: Artists focused on depicting spatial relationships in their works, using abstract forms to convey a sense of place and movement. Through the manipulation of space and form, artists could create visual narratives that resonated with viewers on a personal and emotional level 
+
 >Embracing Hybrid Approaches: Artists adopted hybrid approaches that combined elements of traditional art-making with mapping techniques. By merging different visual languages and methodologies, artists could create artworks that challenged conventional notions of representation and abstraction .
+
 >Engaging with Viewers' Experiences: Artists aimed to tap into viewers' own experiences of space by presenting artworks that called forth memories and perceptions of the world. By emphasizing what is given over personal emotion, artists created works that established a direct relationship with viewers, inviting them to engage with the artwork on a deeper level .
+
 >Resolving the "Crisis of Representation": Artists sought to resolve the tension between representation and abstraction by using maps as a means to navigate the complexities of visual language. By acknowledging the subjective nature of maps as human products, artists could create artworks that functioned as abstract representations of objective reality, offering viewers a unique perspective on the world.
 
 In a nutshell, this course has been an eye-opening adventure, encouraging multidisciplinary cooperation and strengthening my digital knowledge. Discussions on Sufi Arts and digital religion extended my ideas, while research of spatial initiatives provided fresh perspectives on art and mapping. The course's emphasis on research data management, computational thinking, and collaborative problem-solving has given me the skills I need for my major in the digital era and embrace multidisciplinary collaboration.
