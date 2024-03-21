@@ -67,9 +67,10 @@ The presence of both "daylight" and "night" in the lyrics of Taylor’s songs du
 
 The inclusion of "golden" alongside "daylight" suggests a sense of warmth, happiness, and positivity associated with moments of clarity and optimism. This pairing evokes imagery of bright, sunlit days filled with joy and contentment, contrasting with the darkness and uncertainty often associated with "night." Together, "daylight" and "golden" create a vivid picture of moments of happiness and fulfillment, further enhancing the multifaceted exploration of emotions and experiences in Taylor Swift's songwriting during this period.
 
+![man](/assets/assignment2/man.png)
+
 Throughout Taylor Swift's career, her lyrics reflect a profound evolution and maturation. In the early years, frequent mentions of "you're," "love," and "like" paint a picture of a young girl navigating the complexities of love and heartbreak. As she transitions into the second era, characterized by hits like "Shake It Off," Swift begins to assert herself, shaking off rumors and embracing her individuality. This phase sees her exploring themes beyond romance, delving into self-discovery and empowerment. By the third era, Swift emerges as a seasoned storyteller, her lyrics demonstrating a newfound maturity and depth. Addressing themes of friendship and feminism, she showcases a more nuanced understanding of the world and her place within it, marking a significant evolution in her artistry.
 
-![man](/assets/assignment2/man.png)
 
 ### Conclusion
 
