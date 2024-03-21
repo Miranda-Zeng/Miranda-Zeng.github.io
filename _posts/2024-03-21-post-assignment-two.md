@@ -91,7 +91,7 @@ To evaluate the efficacy of Voyant tools with Chinese text, I selected songs fro
 <img src="/assets/assignment2/link_eng.png" alt="link_eng" width="300" height="auto">
 <img src="/assets/assignment2/link_chi.png" alt="link_chi" width="300" height="auto">
 
-<span style="font-family:Georgia; font-size:4em;">
+<span style="font-family:Georgia; font-size:0.1em;">
 Reference: 
 Swift, Taylor. Taylor Swift, Apollo A-1 LLC, 2006.
 Swift, Taylor. Fearless (Taylor’s Version), Taylor Swift, 2021.
