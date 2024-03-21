@@ -35,7 +35,8 @@ Additionally, the frequently used word "come" may imply themes of anticipation, 
 - Themes may include empowerment, self-discovery, and personal growth.
 - Key albums include "Red" (2012), "1989" (2014), and "Reputation" (2017).
 
-![2010cirrus](/assets/assignment2/2010cirrus.png)
+<iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=5cc494ba73ca36e6646c3df308bcaf35&view=Cirrus'></iframe>
+<!-- ![2010cirrus](/assets/assignment2/2010cirrus.png) -->
 
 Obviously, ‘i’m’ is more frequently used than ‘you’re’ in this era. In "Red," Taylor explores themes of love, heartbreak, and self-discovery, with tracks like "All Too Well" and "I Almost Do" showcasing her emotional vulnerability. Similarly, "1989" looks into her experiences with love and relationships, with songs like "Style" and "Wildest Dreams" reflecting her own perspectives and feelings. "Reputation" sees her confronting public scrutiny and personal challenges, with tracks like "Look What You Made Me Do" and "Delicate" expressing her emotions and experiences in a more assertive and introspective manner. Therefore, the increased frequency of the phrase "i'm" compared to "you're" during this period may indeed suggest a focus on her own feelings and experiences in her music.
 
@@ -54,7 +55,8 @@ Different from her earlier era, where words like ‘come’ and ‘love’ domin
 - Themes may include introspection, social commentary, and embracing authenticity.
 - Key albums include "Lover" (2019), "Folklore" (2020), "Evermore" (2020), and “Midnights”(2022).
 
-![2019cirrus](/assets/assignment2/2019cirrus.png)
+<iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=ce12c7c4604d97d1289904365f39385e&view=Cirrus'></iframe>
+<!-- ![2019cirrus](/assets/assignment2/2019cirrus.png) -->
 
 The increased frequency of "I'm" compared to "You're" suggests a shift in focus towards Taylor Swift's personal experiences and perspective during the 2019 to 2023 era. This emphasis on the first-person narrative indicates a deeper exploration of self-expression and introspection in her songwriting. Additionally, the significant occurrence of "I'd" further reinforces this introspective theme, as it implies contemplation and reflection on past events or hypothetical scenarios. Overall, these trends suggest a more introspective and self-aware approach to storytelling in Taylor Swift's music during this era, characterized by a heightened sense of personal reflection and vulnerability.
 
