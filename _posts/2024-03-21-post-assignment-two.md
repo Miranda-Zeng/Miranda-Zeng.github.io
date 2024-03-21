@@ -103,14 +103,14 @@ To evaluate the efficacy of Voyant tools with Chinese text, I selected songs fro
 <span style="font-family:Georgia; font-size:0.625em;">Swift, Taylor. evermore, Taylor Swift, 2020.</span>
 <span style="font-family:Georgia; font-size:0.625em;">Swift, Taylor. Midnights, Taylor Swift, 2022.</span> -->
 
-<span style="font-family:Georgia; font-size:0.625em;">Reference:  
-  Swift, Taylor. Taylor Swift, Apollo A-1 LLC, 2006.
-  Swift, Taylor. Fearless (Taylor’s Version), Taylor Swift, 2021.
-  Swift, Taylor. Speak Now (Taylor’s Version), Taylor Swift, 2023.
-  Swift, Taylor. Red (Taylor’s Version), Taylor Swift, 2021.
-  Swift, Taylor. 1989 (Taylor’s Version), Taylor Swift, 2023.
-  Swift, Taylor. reputation, Apollo A-1 LLC, 2017.
-  Swift, Taylor. Lover, Taylor Swift, 2019.
-  Swift, Taylor. folklore, Taylor Swift, 2020.
-  Swift, Taylor. evermore, Taylor Swift, 2020.
-  Swift, Taylor. Midnights, Taylor Swift, 2022.</span>
+<span style="font-family:Georgia; font-size:0.625em;">Reference: <br>
+Swift, Taylor. Taylor Swift, Apollo A-1 LLC, 2006.<br>
+Swift, Taylor. Fearless (Taylor’s Version), Taylor Swift, 2021.<br>
+Swift, Taylor. Speak Now (Taylor’s Version), Taylor Swift, 2023.<br>
+Swift, Taylor. Red (Taylor’s Version), Taylor Swift, 2021.<br>
+Swift, Taylor. 1989 (Taylor’s Version), Taylor Swift, 2023.<br>
+Swift, Taylor. reputation, Apollo A-1 LLC, 2017.<br>
+Swift, Taylor. Lover, Taylor Swift, 2019.<br>
+Swift, Taylor. folklore, Taylor Swift, 2020.<br>
+Swift, Taylor. evermore, Taylor Swift, 2020.<br>
+Swift, Taylor. Midnights, Taylor Swift, 2022.</span>
