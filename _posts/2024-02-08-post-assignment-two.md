@@ -1,11 +1,13 @@
 ---
-title: "Post: Assignment 2 Working with a Corpus"
+title: "Post: Assignment #2"
 categories:
   - blog
 tags:
   - asssignment
   - Post Formats
 ---
+## Assignment #2: Working with a Corpus
+
 
 I chose to analyze Taylor Swift’s song lyrics. I divided her works into three eras, 2006 to 2010, 2011 to 2018 and 2019 to 2023. Each era includes three to four albums, and they all have different attributes.
 
@@ -13,6 +15,8 @@ I chose to analyze Taylor Swift’s song lyrics. I divided her works into three 
 This era covers Taylor Swift's early career, characterized by country-pop and country-rock influences.
 Focus on themes such as young love, heartbreak, and coming-of-age experiences.
 Key albums include "Taylor Swift" (2006), "Fearless" (2008), and "Speak Now" (2010).
+
+![2006cirrus](/assets/assignment2/2006cirrus.png)
 
 Most frequently used phrases are “i’m” and “you’re”, which also appear a lot in the next two eras. These phrases unfold that Taylor tells the stories through first person perspective and is very good at portraying her relationship with others. However, 'you're' doesn't solely refer to others but can also encompass Taylor herself. For instance, in songs like 'Fifteen,' she adopts the perspective of both her younger self and her audience, crafting lyrics that read like a heartfelt letter
 
@@ -25,11 +29,11 @@ This period marks Taylor Swift's transition to mainstream pop music, incorporati
 Themes may include empowerment, self-discovery, and personal growth.
 Key albums include "Red" (2012), "1989" (2014), and "Reputation" (2017).
 
+![2010cirrus](/assets/assignment2/2010cirrus.png)
+
 Obviously, ‘i’m’ is more frequently used than ‘you’re’ in this era. In "Red," Taylor explores themes of love, heartbreak, and self-discovery, with tracks like "All Too Well" and "I Almost Do" showcasing her emotional vulnerability. Similarly, "1989" looks into her experiences with love and relationships, with songs like "Style" and "Wildest Dreams" reflecting her own perspectives and feelings. "Reputation" sees her confronting public scrutiny and personal challenges, with tracks like "Look What You Made Me Do" and "Delicate" expressing her emotions and experiences in a more assertive and introspective manner. Therefore, the increased frequency of the phrase "i'm" compared to "you're" during this period may indeed suggest a focus on her own feelings and experiences in her music.
 
-
 ‘Like’ and ‘love’ are still very consistently used words in this era. It’s noticeable that the wordtree indicates the words frequently paired with ‘love’ are ‘hurts’, ‘bleeds’ and ‘fades’. It suggests a nuanced exploration of the complexities of love in Taylor Swift's song lyrics. These words evoke themes of pain, vulnerability, and the transient nature of relationships. It reflects a deeper narrative where love is portrayed not only as a source of joy but also as something that can cause anguish and uncertainty. This use of language adds layers of depth to her storytelling, capturing the emotional rollercoaster often associated with love and relationships.
-
 
 Different from her earlier era, where words like ‘come’ and ‘love’ dominated, the period spanning albums "1989" and "reputation" witnesses a thematic shift in Taylor Swift's lyrical content. In this phase, phrases such as ‘shake’, ‘dancing’, and ‘run’ are notably recurrent, indicating a deliberate departure from her previous themes. This change suggests Taylor's response to the rumors and scrutiny surrounding her, with a focus on themes of liberation, defiance, and self-empowerment. The repeated use of words associated with movement and freedom reflects her determination to break free from constraints and assert her independence amidst adversity.
 
@@ -37,6 +41,8 @@ Different from her earlier era, where words like ‘come’ and ‘love’ domin
 This era reflects Taylor Swift's experimentation with diverse musical styles and more mature lyrical content.
 Themes may include introspection, social commentary, and embracing authenticity.
 Key albums include "Lover" (2019), "Folklore" (2020), "Evermore" (2020), and “Midnights”(2022).
+
+![2019cirrus](/assets/assignment2/2019cirrus.png)
 
 The increased frequency of "I'm" compared to "You're" suggests a shift in focus towards Taylor Swift's personal experiences and perspective during the 2019 to 2023 era. This emphasis on the first-person narrative indicates a deeper exploration of self-expression and introspection in her songwriting. Additionally, the significant occurrence of "I'd" further reinforces this introspective theme, as it implies contemplation and reflection on past events or hypothetical scenarios. Overall, these trends suggest a more introspective and self-aware approach to storytelling in Taylor Swift's music during this era, characterized by a heightened sense of personal reflection and vulnerability.
 
