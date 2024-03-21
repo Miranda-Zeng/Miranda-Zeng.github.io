@@ -85,4 +85,6 @@ Before I began the analysis, I had a basic understanding of the context of Taylo
 
 To evaluate the efficacy of Voyant tools with Chinese text, I selected songs from Taylor Swift's third era and inputted both the English and corresponding Chinese lyrics into the tool. While the word cloud displayed minimal variation between the languages, discrepancies arose in translations, notably with some English phrases fragmented into individual Chinese characters. For instance, "Cornelia Street" was divided phonetically into five distinct characters, resulting in their isolated appearance in the Chinese word cloud. However, the links tool yielded striking disparities, the English analysis revealed numerous correlated word pairs, while the Chinese counterpart generated only a single pair. I speculate it’s because Voyant tools understands and  works better with English words.
 
-![link_eng](/assets/assignment2/link_eng.png) ![link_chi](/assets/assignment2/link_chi.png)
+<!-- ![link_eng](/assets/assignment2/link_eng.png) ![link_chi](/assets/assignment2/link_chi.png) -->
+<img src="/assets/assignment2/link_eng.png" alt="link_eng" width="300" height="auto">
+<img src="/assets/assignment2/link_chi.png" alt="link_chi" width="300" height="auto">
