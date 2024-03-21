@@ -79,7 +79,9 @@ Throughout Taylor Swift's career, her lyrics reflect a profound evolution and ma
 
 Before I began the analysis, I had a basic understanding of the context of Taylor Swift’s albums and her personal evolution. Computer-assisted analysis allows for the identification of patterns, trends, and correlations within a large corpus of text that may not be immediately apparent through a linear read. It clearly visualizes the changes through different times. But when I use the DreamScape tool, it doesn’t always accurately show the place, and I don’t know how to change that information, otherwise it would be fun to analyze the location mentioned in Taylor’s song. The format of the corpus, provided in textual form, was suitable for the purposes of computer-assisted analysis. However, some shortcomings of the texts include variations in lyric transcriptions, potential inaccuracies in the representation of song lyrics. 
 
-![english](/assets/assignment2/english.png) ![chinese](/assets/assignment2/chinese.png)
+<!-- ![english](/assets/assignment2/english.png) ![chinese](/assets/assignment2/chinese.png) -->
+<img src="/assets/assignment2/english.png" alt="english" width="300" height="auto">
+<img src="/assets/assignment2/chinese.png" alt="english" width="300" height="auto">
 
 To evaluate the efficacy of Voyant tools with Chinese text, I selected songs from Taylor Swift's third era and inputted both the English and corresponding Chinese lyrics into the tool. While the word cloud displayed minimal variation between the languages, discrepancies arose in translations, notably with some English phrases fragmented into individual Chinese characters. For instance, "Cornelia Street" was divided phonetically into five distinct characters, resulting in their isolated appearance in the Chinese word cloud. However, the links tool yielded striking disparities, the English analysis revealed numerous correlated word pairs, while the Chinese counterpart generated only a single pair. I speculate it’s because Voyant tools understands and  works better with English words.
 
