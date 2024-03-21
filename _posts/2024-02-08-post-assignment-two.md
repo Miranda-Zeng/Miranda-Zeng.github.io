@@ -29,10 +29,10 @@ Additionally, the frequently used word "come" may imply themes of anticipation, 
 
 ![come2006](/assets/assignment2/come2006.png)
 
--2011 to 2018
-This period marks Taylor Swift's transition to mainstream pop music, incorporating elements of synth-pop and electronic dance music (EDM).
-Themes may include empowerment, self-discovery, and personal growth.
-Key albums include "Red" (2012), "1989" (2014), and "Reputation" (2017).
+### -2011 to 2018
+- This period marks Taylor Swift's transition to mainstream pop music, incorporating elements of synth-pop and electronic dance music (EDM).
+- Themes may include empowerment, self-discovery, and personal growth.
+- Key albums include "Red" (2012), "1989" (2014), and "Reputation" (2017).
 
 ![2010cirrus](/assets/assignment2/2010cirrus.png)
 
@@ -48,10 +48,10 @@ Different from her earlier era, where words like ‘come’ and ‘love’ domin
 
 ![shake](/assets/assignment2/shake.png)
 
--2019 to 2023
-This era reflects Taylor Swift's experimentation with diverse musical styles and more mature lyrical content.
-Themes may include introspection, social commentary, and embracing authenticity.
-Key albums include "Lover" (2019), "Folklore" (2020), "Evermore" (2020), and “Midnights”(2022).
+### -2019 to 2023
+- This era reflects Taylor Swift's experimentation with diverse musical styles and more mature lyrical content.
+- Themes may include introspection, social commentary, and embracing authenticity.
+- Key albums include "Lover" (2019), "Folklore" (2020), "Evermore" (2020), and “Midnights”(2022).
 
 ![2019cirrus](/assets/assignment2/2019cirrus.png)
 
@@ -71,12 +71,12 @@ Throughout Taylor Swift's career, her lyrics reflect a profound evolution and ma
 
 ![man](/assets/assignment2/man.png)
 
+### Conclusion
+
 Before I began the analysis, I had a basic understanding of the context of Taylor Swift’s albums and her personal evolution. Computer-assisted analysis allows for the identification of patterns, trends, and correlations within a large corpus of text that may not be immediately apparent through a linear read. It clearly visualizes the changes through different times. But when I use the DreamScape tool, it doesn’t always accurately show the place, and I don’t know how to change that information, otherwise it would be fun to analyze the location mentioned in Taylor’s song. The format of the corpus, provided in textual form, was suitable for the purposes of computer-assisted analysis. However, some shortcomings of the texts include variations in lyric transcriptions, potential inaccuracies in the representation of song lyrics. 
 
-![english](/assets/assignment2/english.png)
-![chinese](/assets/assignment2/chinese.png)
+![english](/assets/assignment2/english.png) ![chinese](/assets/assignment2/chinese.png)
 
 To evaluate the efficacy of Voyant tools with Chinese text, I selected songs from Taylor Swift's third era and inputted both the English and corresponding Chinese lyrics into the tool. While the word cloud displayed minimal variation between the languages, discrepancies arose in translations, notably with some English phrases fragmented into individual Chinese characters. For instance, "Cornelia Street" was divided phonetically into five distinct characters, resulting in their isolated appearance in the Chinese word cloud. However, the links tool yielded striking disparities, the English analysis revealed numerous correlated word pairs, while the Chinese counterpart generated only a single pair. I speculate it’s because Voyant tools understands and  works better with English words.
 
-![link_eng](/assets/assignment2/link_eng.png)
-![link_chi](/assets/assignment2/link_chi.png)
+![link_eng](/assets/assignment2/link_eng.png) ![link_chi](/assets/assignment2/link_chi.png)
