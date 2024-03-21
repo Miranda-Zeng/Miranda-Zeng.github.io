@@ -11,10 +11,11 @@ tags:
 
 I chose to analyze Taylor Swift’s song lyrics. I divided her works into three eras, 2006 to 2010, 2011 to 2018 and 2019 to 2023. Each era includes three to four albums, and they all have different attributes.
 
--2006 to 2010
-This era covers Taylor Swift's early career, characterized by country-pop and country-rock influences.
-Focus on themes such as young love, heartbreak, and coming-of-age experiences.
-Key albums include "Taylor Swift" (2006), "Fearless" (2008), and "Speak Now" (2010).
+### -2006 to 2010
+
+- This era covers Taylor Swift's early career, characterized by country-pop and country-rock influences.
+- Focus on themes such as young love, heartbreak, and coming-of-age experiences.
+- Key albums include "Taylor Swift" (2006), "Fearless" (2008), and "Speak Now" (2010).
 
 ![2006cirrus](/assets/assignment2/2006cirrus.png)
 
