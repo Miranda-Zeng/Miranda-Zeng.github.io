@@ -22,7 +22,11 @@ Most frequently used phrases are “i’m” and “you’re”, which also appe
 
 The frequent use of words like 'like', 'love' and ‘baby’ suggests a predominant theme of romantic relationships in her songs during this era. According to the trends chart, ‘like’ and ‘love’ almost appear all the time.
 
+![likelovecome](/assets/assignment2/lovelikecome.png)
+
 Additionally, the frequently used word "come" may imply themes of anticipation, invitation, or the desire for closeness, further reflecting the romantic narrative prevalent in her music during those years. The links tool indicates that ‘come’ is frequently paired with ‘on’ and ‘back’. The combination of "come on" could convey encouragement, urging someone to join or participate, while "come back" might evoke sentiments of nostalgia, longing, or the hope for a return to a previous state or relationship.
+
+![come2006](/assets/assignment2/come2006.png)
 
 -2011 to 2018
 This period marks Taylor Swift's transition to mainstream pop music, incorporating elements of synth-pop and electronic dance music (EDM).
