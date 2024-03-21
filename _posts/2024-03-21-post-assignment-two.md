@@ -17,7 +17,8 @@ I chose to analyze Taylor Swift’s song lyrics. I divided her works into three 
 - Focus on themes such as young love, heartbreak, and coming-of-age experiences.
 - Key albums include "Taylor Swift" (2006), "Fearless" (2008), and "Speak Now" (2010).
 
-![2006cirrus](/assets/assignment2/2006cirrus.png)
+<iframe style='width: 444px; height: 408px;' src='https://voyant-tools.org/?corpus=7985d56b89aea3fc995e97ba12a7d406&view=Cirrus'></iframe>
+<!-- ![2006cirrus](/assets/assignment2/2006cirrus.png) -->
 
 Most frequently used phrases are “i’m” and “you’re”, which also appear a lot in the next two eras. These phrases unfold that Taylor tells the stories through first person perspective and is very good at portraying her relationship with others. However, 'you're' doesn't solely refer to others but can also encompass Taylor herself. For instance, in songs like 'Fifteen,' she adopts the perspective of both her younger self and her audience, crafting lyrics that read like a heartfelt letter
 
