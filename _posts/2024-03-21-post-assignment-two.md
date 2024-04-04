@@ -7,7 +7,7 @@ tags:
   - Post Formats
 toc: true
 toc_sticky: true
-toc_label: "Blog Sessions"
+toc_label: "Blog Sections"
 toc_icon: "star"
 ---
 ## Assignment #2: Analysis on Taylor Swift Song Lyrics
