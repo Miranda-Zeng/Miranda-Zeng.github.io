@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment #2"
+title: "Post: Assignment #2: Working with a Corpus"
 categories:
   - blog
 tags:
@@ -7,10 +7,10 @@ tags:
   - Post Formats
 toc: true
 toc_sticky: true
-toc_label: "Working with a Corpus"
+toc_label: "Different Eras"
 toc_icon: "star"
 ---
-## Assignment #2: Working with a Corpus
+## Assignment #2: Taylor Swift Song Lyrics
 
 
 I chose to analyze Taylor Swift’s song lyrics. I divided her works into three eras, 2006 to 2010, 2011 to 2018 and 2019 to 2023. Each era includes three to four albums, and they all have different attributes.
