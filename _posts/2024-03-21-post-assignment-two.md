@@ -15,6 +15,7 @@ toc_icon: "star"
 
 >I chose to analyze Taylor Swift’s song lyrics. I divided her works into three eras, 2006 to 2010, 2011 to 2018 and 2019 to 2023. Each era includes three to four albums, and they all have different attributes. 
 
+**test**{: .notice--info}
 ### -2006 to 2010
 
 - This era covers Taylor Swift's early career, characterized by country-pop and country-rock influences.
