@@ -5,6 +5,10 @@ categories:
 tags:
   - asssignment
   - Post Formats
+toc: true
+toc_sticky: true
+toc_label: "Working with a Corpus"
+toc_icon: "star"
 ---
 ## Assignment #2: Working with a Corpus
 
