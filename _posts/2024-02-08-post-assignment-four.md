@@ -1,5 +1,5 @@
 ---
-title: "Post: Assignment 4"
+title: "Post: Assignment#4"
 categories:
   - blog
 tags:
@@ -100,11 +100,11 @@ The model performs very well for artists like Sage and Miró, who have relativel
     - Other: This category is quite diverse, suggesting it includes images where no single color dominates or the dominant color does not fit neatly into the other predefined categories. It seems to serve as a catch-all for complex images, which could be problematic if looking for more granular insights.
 
 ![confusion matrix 2 of painters](/assets/assignment4/confusionmatrix3.png)
--High Accuracy for Grey:
+- High Accuracy for Grey:
 Grey has the highest number of correct predictions, indicating that the model is effective at recognizing and classifying grey tones.
--Significant Confusion with 'Other':
+- Significant Confusion with 'Other':
 The 'Other' category has a high degree of misclassification, both from and to other categories. This suggests that 'Other' is either too broad or that its defining characteristics are not well understood by the model.
--Challenges with Less Represented Colors:
+- Challenges with Less Represented Colors:
 Black, blue, pink, red, and yellow show relatively high rates of misclassification. This might be due to fewer training samples or the model's difficulty in distinguishing these colors within the context of artwork.
 
 ### If you could train your own algorithm what would you aim to teach it?
