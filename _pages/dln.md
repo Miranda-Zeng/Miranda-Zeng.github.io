@@ -36,4 +36,4 @@ My experience in the Introduction to Digital Humanities has been profoundly enri
 
 
 
- <!-- <mark>Ready for grading</mark> -->
+ <mark>Ready for grading</mark>
