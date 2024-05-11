@@ -12,9 +12,11 @@ tags:
 ## Part One
 
 ### How does one built-in algorithm such as Inceptionv3 in ODM cluster the data?
+![imagegrid1](/assets/assignment4/ImageGrid1.png)
 Inception V3, a deep convolutional neural network, is utilized within Orange Data Mining to analyze and cluster image data. This algorithm excels at detecting intricate features in images through layers that learn hierarchical representations. In this specific application, it appears that the algorithm clusters images not only by subtle color gradations but also by visual patterns and compositional elements. For instance, paintings with predominant pink hues are aggregated on the left-hand side of the grid, suggesting a color-based clustering. Similarly, artworks featuring geometric patterns, such as rectangles and circles, are grouped towards the bottom of the grid. This indicates that Inception V3 effectively discerns and clusters based on both color palette and the presence of distinct shapes and structures within the paintings
 
 ### Do other algorithms give you different results?
+![imagegrid2](/assets/assignment4/ImageGrid2.png)
 Painters:
 Paintings by the same artist are grouped closely together. This indicates that the painters embedder is effectively capturing stylistic signatures that are unique to each artist. For example, most of Sage’s works are at the top of the frame instead of the bottom now.
 
