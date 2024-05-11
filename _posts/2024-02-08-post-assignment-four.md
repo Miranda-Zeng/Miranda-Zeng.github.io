@@ -75,16 +75,42 @@ This use of color supports the structural elements rather than taking a forefron
 
 ### How well did any of the built-in algorithms you chose predict the categories you established?
 ![confusion matrix of painters](/assets/assignment4/confusionmatrix1.png)
--High Accuracy for Some Artists: 
+- High Accuracy for Some Artists: 
 The classifier performs very well for Miró, Picasso, and Sage, with high true positive rates, indicating that it can effectively recognize and differentiate their styles.
--Common Misclassifications:
+- Common Misclassifications:
 ManRay and Toyen: There are confusions between ManRay and other artists like Picasso and Sage, and Toyen is sometimes confused with ManRay. This could suggest some stylistic similarities in certain works or a challenge for the model in distinguishing unique features of these artists.
 Picasso Misclassifications: Picasso is sometimes misclassified as ManRay, which could indicate overlapping features or styles in certain paintings that the model finds confusing.
 ![confusion matrix of inception v3](/assets/assignment4/confusionmatrix2.png)
--The performance of Inception V3 is mixed compared to the painting embedder. It shows a drop in accuracy for Picasso and Sage, suggesting that while it might handle some artists better, it does not universally improve classification across all artists.
--Misclassification Patterns:
+- The performance of Inception V3 is mixed compared to the painting embedder. It shows a drop in accuracy for Picasso and Sage, suggesting that while it might handle some artists better, it does not universally improve classification across all artists.
+- Misclassification Patterns:
 Man Ray and Picasso: A notable amount of Man Ray’s work is misclassified as Picasso’s, which could indicate overlapping features in their styles or abstraction techniques that confuse the model.
 Sage and Toyen: The minimal misclassifications between Sage and Toyen suggest that while they are generally well-classified, there may be occasional overlaps in style or thematic elements that are not as distinct to the model.
--Overall Model Performance:
+- Overall Model Performance:
 The model performs very well for artists like Sage and Miró, who have relatively high accuracy, but struggles more with Man Ray. This variation in performance might be due to the inherent differences in the artists' styles or the characteristics of the artworks sampled for each artist.
+
+
+![imagegrid3](/assets/assignment4/ImageGrid3.png)
+1. Consistency and Accuracy in Color Detection:
+    - Greys: Images labeled as grey generally show a dominant presence of grey or subdued tones. This indicates that the algorithm effectively identifies and categorizes images where grey tones are prevalent, which often correspond to images with metallic, urban, or shadowed elements.
+    - Blues and Reds: The categorization of blues and reds shows a strong consistency, with images prominently featuring these colors correctly labeled. This suggests good model accuracy in recognizing vibrant and distinct colors which are easier to distinguish.
+    - Yellows: Yellow-labeled images seem to capture the essence of the color well, highlighting artworks where yellow plays a significant role either in brightness or as a focal element.
+
+2. Challenges and Ambiguities:
+    - Pink and Black: These categories seem less populated and may represent challenges in the model's ability to distinctly recognize these colors when they are less dominant or mixed with other hues.
+    - Other: This category is quite diverse, suggesting it includes images where no single color dominates or the dominant color does not fit neatly into the other predefined categories. It seems to serve as a catch-all for complex images, which could be problematic if looking for more granular insights.
+
+![confusion matrix 2 of painters](/assets/assignment4/confusionmatrix3.png)
+-High Accuracy for Grey:
+Grey has the highest number of correct predictions, indicating that the model is effective at recognizing and classifying grey tones.
+-Significant Confusion with 'Other':
+The 'Other' category has a high degree of misclassification, both from and to other categories. This suggests that 'Other' is either too broad or that its defining characteristics are not well understood by the model.
+-Challenges with Less Represented Colors:
+Black, blue, pink, red, and yellow show relatively high rates of misclassification. This might be due to fewer training samples or the model's difficulty in distinguishing these colors within the context of artwork.
+
+### If you could train your own algorithm what would you aim to teach it?
+- Enhancing the model’s ability to distinguish between closely related or poorly represented colors could improve accuracy. This might involve training with a more balanced dataset where each color is equally represented.
+
+- Refining the color categories or perhaps defining them in a more nuanced way could also help, especially for categories like 'Other', which appears too ambiguous.
+
+
 
