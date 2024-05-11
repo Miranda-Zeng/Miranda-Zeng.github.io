@@ -22,6 +22,7 @@ Paintings by the same artist are grouped closely together. This indicates that t
 
 
 ### What features seem to be most characteristic of the different quadrants of the image plot?
+![imagegrid2](/assets/assignment4/ImageGrid2.png)
 Top:
 Characteristics: This quadrant includes a mix of seemingly modern and classical elements, with a focus on structured, often stark compositions. The images, such as those by Sage (Sage11, Sage3), show a penchant for subdued palettes and architectural elements.
 Artistic Styles: Sage's works here, featuring architectural and sculptural elements, are paired with images that maintain a similar structural integrity, suggesting that the embedder values compositional rigor and perhaps thematic gravity.
@@ -39,6 +40,8 @@ Characteristics: Features a mixture of abstract forms and more clear, representa
 Artistic Styles: Here, Miró’s vibrant abstracts (Miró2, Miró9, Miró15) are mixed with Picasso’s figurative and abstract pieces, indicating a clustering based on a playful yet thoughtful exploration of form and color.
 
 ### Using hierarchical clustering, isolate specific clusters to look more closely.
+![hierarchy11](/assets/assignment4/Hierarchy11.png)
+![hierarchy1](/assets/assignment4/Hierarchy1.png)
 1. Common Features Across Both Artists' Works:
 Abstract Forms: Both artists often employ abstract forms that distill figures and scenes to their essential elements. This simplification can involve both geometric and organic shapes.
 Color Use: Both Picasso and Miró are known for their vibrant use of color, but they also integrate muted tones effectively within their compositions. The clustering may have identified a similar approach to balancing color palettes.
@@ -54,6 +57,8 @@ Innovative Techniques: Both artists experimented with form and perspective, whic
 Shared Aesthetic and Conceptual Approaches: The clustering suggests that both artists share a common ground in how they abstract reality to express deeper meanings. Their works might also parallel in how they manipulate space and color to create a sense of depth or flatness, which could be a significant factor in their grouping.
 Sensitivity of the Clustering Algorithm: This outcome highlights the algorithm's sensitivity to not just visual similarities but also to the artists' shared approaches to abstraction and surrealism. This can be particularly insightful in studies where cross-artist themes and influences are of interest.
 
+![hierarchy22](/assets/assignment4/Hierarchy22.png)
+![hierarchy2](/assets/assignment4/Hierarchy2.png)
 
 1. All three paintings prominently feature geometric shapes and structures. Man Ray’s painting integrates these elements in a more surreal, organic context, while Sage’s paintings focus on structured, almost architectural settings and surreal landscapes.
 The use of lines and structured forms is quite evident, creating a sense of space and depth that plays with the viewer's perception.
