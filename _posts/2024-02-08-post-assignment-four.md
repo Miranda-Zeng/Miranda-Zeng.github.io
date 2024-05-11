@@ -71,3 +71,20 @@ The abstract qualities in these works suggest a departure from realistic depicti
 The color schemes in all three artworks are subdued and harmonious, relying on a limited palette to enhance the compositions without overwhelming the geometric and surreal themes.
 This use of color supports the structural elements rather than taking a forefront position, which ties the pieces together in a visual and thematic narrative.
 
+## Part two
+
+### How well did any of the built-in algorithms you chose predict the categories you established?
+![confusion matrix of painters](/assets/assignment4/confusionmatrix1.png)
+-High Accuracy for Some Artists: 
+The classifier performs very well for Miró, Picasso, and Sage, with high true positive rates, indicating that it can effectively recognize and differentiate their styles.
+-Common Misclassifications:
+ManRay and Toyen: There are confusions between ManRay and other artists like Picasso and Sage, and Toyen is sometimes confused with ManRay. This could suggest some stylistic similarities in certain works or a challenge for the model in distinguishing unique features of these artists.
+Picasso Misclassifications: Picasso is sometimes misclassified as ManRay, which could indicate overlapping features or styles in certain paintings that the model finds confusing.
+![confusion matrix of inception v3](/assets/assignment4/confusionmatrix2.png)
+-The performance of Inception V3 is mixed compared to the painting embedder. It shows a drop in accuracy for Picasso and Sage, suggesting that while it might handle some artists better, it does not universally improve classification across all artists.
+-Misclassification Patterns:
+Man Ray and Picasso: A notable amount of Man Ray’s work is misclassified as Picasso’s, which could indicate overlapping features in their styles or abstraction techniques that confuse the model.
+Sage and Toyen: The minimal misclassifications between Sage and Toyen suggest that while they are generally well-classified, there may be occasional overlaps in style or thematic elements that are not as distinct to the model.
+-Overall Model Performance:
+The model performs very well for artists like Sage and Miró, who have relatively high accuracy, but struggles more with Man Ray. This variation in performance might be due to the inherent differences in the artists' styles or the characteristics of the artworks sampled for each artist.
+
